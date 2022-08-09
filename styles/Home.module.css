@@ -127,3 +127,7 @@
     filter: invert(1);
   }
 }
+
+.colorBlue {
+  color: #0070f3;
+}
